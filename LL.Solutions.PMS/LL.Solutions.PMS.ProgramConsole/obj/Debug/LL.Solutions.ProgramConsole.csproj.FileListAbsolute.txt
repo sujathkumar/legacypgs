@@ -1,0 +1,8 @@
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\bin\Debug\LL.Solutions.Console.exe.config
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\bin\Debug\LL.Solutions.Console.exe
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\bin\Debug\LL.Solutions.Console.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\bin\Debug\EMC.LL.Solutions.Adapter.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\bin\Debug\EMC.LL.Solutions.Adapter.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\obj\Debug\LL.Solutions.ProgramConsole.csprojResolveAssemblyReference.cache
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\obj\Debug\LL.Solutions.Console.exe
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.ProgramConsole\obj\Debug\LL.Solutions.Console.pdb

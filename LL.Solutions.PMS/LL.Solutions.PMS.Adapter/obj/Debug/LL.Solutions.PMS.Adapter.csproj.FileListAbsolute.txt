@@ -1,0 +1,8 @@
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.PMS.Adapter\bin\Debug\EMC.LL.Solutions.Adapter.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.PMS.Adapter\bin\Debug\EMC.LL.Solutions.Adapter.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.PMS.Adapter\obj\Debug\EMC.LL.Solutions.Adapter.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.WinApps\LL.Solutions.PMS.Adapter\obj\Debug\EMC.LL.Solutions.Adapter.pdb
+C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\EMC.LL.Solutions.Adapter.dll
+C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\EMC.LL.Solutions.Adapter.pdb
+C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\EMC.LL.Solutions.Adapter.dll
+C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\EMC.LL.Solutions.Adapter.pdb
