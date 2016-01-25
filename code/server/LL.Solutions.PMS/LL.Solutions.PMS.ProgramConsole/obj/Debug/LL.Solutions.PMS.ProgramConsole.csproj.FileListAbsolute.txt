@@ -22,7 +22,7 @@ C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Soluti
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.exe
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.pdb
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.Service.dll
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\EMC.LL.Solutions.Adapter.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.Service.pdb
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\EMC.LL.Solutions.Adapter.pdb
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.PMS.ProgramConsole.csprojResolveAssemblyReference.cache
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Adapter.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Adapter.pdb

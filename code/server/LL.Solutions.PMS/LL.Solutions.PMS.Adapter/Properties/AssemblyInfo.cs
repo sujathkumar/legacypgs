@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EMC.LL.Solutions.Adapter")]
+[assembly: AssemblyTitle("LL.Solutions.Adapter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("EMC Corporation")]
-[assembly: AssemblyProduct("EMC.LL.Solutions.Adapter")]
+[assembly: AssemblyProduct("LL.Solutions.Adapter")]
 [assembly: AssemblyCopyright("Copyright © EMC Corporation 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

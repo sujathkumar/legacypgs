@@ -1,4 +1,4 @@
-﻿using EMC.LL.Solutions.Adapter;
+﻿using LL.Solutions.Adapter;
 using System;
 using System.Collections.Generic;
 using System.Linq;

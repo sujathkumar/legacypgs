@@ -7,8 +7,8 @@
     <ProjectGuid>{7D1D1EA4-EA8C-41E6-8FF0-F748E55FE935}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EMC.LL.Solutions.Adapter</RootNamespace>
-    <AssemblyName>EMC.LL.Solutions.Adapter</AssemblyName>
+    <RootNamespace>LL.Solutions.Adapter</RootNamespace>
+    <AssemblyName>LL.Solutions.Adapter</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -42,6 +42,9 @@
     <Reference Include="Prism.Wpf, Version=6.1.0.0, Culture=neutral, PublicKeyToken=91a96d2a154366d8, processorArchitecture=MSIL">
       <HintPath>..\packages\Prism.Wpf.6.1.0\lib\net45\Prism.Wpf.dll</HintPath>
       <Private>True</Private>
+    </Reference>
+    <Reference Include="Renci.SshNet">
+      <HintPath>.\Renci.SshNet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

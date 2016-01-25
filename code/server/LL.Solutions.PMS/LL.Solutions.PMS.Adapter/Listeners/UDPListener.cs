@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 
-namespace EMC.LL.Solutions.Adapter
+namespace LL.Solutions.Adapter
 {
     public class UDPListener : IListener
     {
