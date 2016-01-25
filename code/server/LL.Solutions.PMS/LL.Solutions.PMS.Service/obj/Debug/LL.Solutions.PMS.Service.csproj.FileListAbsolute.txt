@@ -5,3 +5,10 @@ C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug
 C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
 C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
 C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\EMC.LL.Solutions.Adapter.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\EMC.LL.Solutions.Adapter.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
