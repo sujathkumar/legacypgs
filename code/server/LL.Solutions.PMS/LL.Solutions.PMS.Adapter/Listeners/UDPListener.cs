@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 
-namespace LL.Solutions.Adapter
+namespace LL.Solutions.PMS.Adapter
 {
-    public class UDPListener : IListener
+    public class UdpListener : IListener
     {
         private UdpClient _clientListener = null;
         private IPEndPoint _groupEP = null;
@@ -16,19 +16,28 @@ namespace LL.Solutions.Adapter
         /// <summary>
         /// Constructor
         /// </summary>
-        public UDPListener()
+        public UdpListener()
         {
             //setting the default port
             //if port is not assigned it will take 80 as port number
             this.Port = 80;            
         }
 
+        public string UserName { get; set; }
+
+        public string Password { get; set; }
+
+        public string Address { get; set; }
+
+        public string Path { get; set; }
+
+        public string Command { get; set; }
+
         public int Port { get; set; }
 
         /// <summary>
         /// ListenPort
         /// </summary>
-        /// <param name="type"></param>
         public string ListenPort()
         {
             StringBuilder sb = new StringBuilder();
@@ -68,8 +77,6 @@ namespace LL.Solutions.Adapter
         /// <summary>
         /// InitializeListener
         /// </summary>
-        /// <param name="listener"></param>
-        /// <param name="groupEP"></param>
         private void InitializeListener()
         {
             _clientListener = new UdpClient(this.Port);

@@ -22,3 +22,28 @@ C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Soluti
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.Properties.Resources.resources
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\LL.Solutions.PMS.Infrastructure.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\LL.Solutions.PMS.Infrastructure.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Prism.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Prism.Wpf.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\System.Windows.Interactivity.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Prism.xml
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\Prism.Wpf.xml
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.Properties.Resources.resources
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.csproj.GenerateResource.Cache
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.csprojResolveAssemblyReference.cache

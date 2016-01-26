@@ -5,10 +5,19 @@ C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug
 C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
 C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
 C:\Users\Sreelakshmi\Desktop\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\Renci.SshNet.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\Renci.SshNet.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.pdb
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.dll
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.pdb

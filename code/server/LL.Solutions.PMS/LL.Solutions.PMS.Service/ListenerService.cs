@@ -1,4 +1,4 @@
-﻿using LL.Solutions.Adapter;
+﻿using LL.Solutions.PMS.Adapter;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,13 +14,27 @@ namespace LL.Solutions.PMS.Service
         /// <summary>
         /// StartService
         /// </summary>
-        public void StartService(string listener, int port)
+        public void StartService(string listener, string userName = "", string password = "", string address = "", string path = "", string command = "", int port = 0)
         {
             if (listener == "UDP")
             {
-                _listener = new UDPListener();
-                _listener.Port = port;
+                _listener = new UdpListener();
             }
+            else if (listener == "SSH")
+            {
+                _listener = new SshListener();
+            }
+            else if (listener == "SCP")
+            {
+                _listener = new ScpListener();
+            }
+
+            _listener.UserName = userName;
+            _listener.Password = password;
+            _listener.Address = address;
+            _listener.Path = path;
+            _listener.Command = command;
+            _listener.Port = port;
         }
 
         /// <summary>

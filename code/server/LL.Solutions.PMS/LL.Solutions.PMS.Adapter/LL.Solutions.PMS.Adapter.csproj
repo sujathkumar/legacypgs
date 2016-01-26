@@ -59,7 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Listeners\IListener.cs" />
-    <Compile Include="Listeners\UDPListener.cs" />
+    <Compile Include="Listeners\ScpListener.cs" />
+    <Compile Include="Listeners\SshListener.cs" />
+    <Compile Include="Listeners\UdpListener.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,8 +1,32 @@
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\LL.Solutions.Adapter.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\LL.Solutions.Adapter.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Prism.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Prism.Wpf.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Renci.SshNet.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\System.Windows.Interactivity.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Prism.xml
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Prism.Wpf.xml
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.Adapter.dll
+C:\LiquidLab\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.Adapter.pdb
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\LL.Solutions.Adapter.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\LL.Solutions.Adapter.pdb
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Prism.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Prism.Wpf.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Renci.SshNet.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\System.Windows.Interactivity.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Microsoft.Practices.ServiceLocation.xml
@@ -20,4 +44,4 @@ C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Soluti
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.Adapter.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.Adapter.pdb
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\Renci.SshNet.dll
+C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.PMS.Adapter.csprojResolveAssemblyReference.cache

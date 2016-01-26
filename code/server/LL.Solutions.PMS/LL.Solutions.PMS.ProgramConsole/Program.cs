@@ -14,6 +14,19 @@ namespace LL.Solutions.ProgramConsole
     {
         static void Main(string[] args)
         {
+            //ListenUDP();
+
+            //Listening SCP Server
+            ListenerService _listenerService = new ListenerService();
+            _listenerService.StartService("SCP", userName: "root", password: "", address: "192.168.100.3", path: "pws", port: 22);
+            _listenerService.ListenService();
+        }
+
+        /// <summary>
+        /// ListenUDP
+        /// </summary>
+        private static void ListenUDP()
+        {
             bool done = false;
 
             //Hardcoding Controllers
@@ -22,7 +35,7 @@ namespace LL.Solutions.ProgramConsole
 
             //Listening UDP Server
             ListenerService _listenerService = new ListenerService();
-            _listenerService.StartService("UDP", 8888);
+            _listenerService.StartService("UDP", port: 8888);
 
             StringBuilder sb = new StringBuilder();
             long ticks = 10 * 1000;
@@ -38,7 +51,7 @@ namespace LL.Solutions.ProgramConsole
                 {
                     foreach (string controller in _controllerService.Controllers)
                     {
-                        if(!sb.ToString().Contains(controller))
+                        if (!sb.ToString().Contains(controller))
                         {
                             Console.WriteLine(controller + " Dead\n");
                         }

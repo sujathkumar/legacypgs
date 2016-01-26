@@ -135,6 +135,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\LL.Solutions.PMS.ConfigurationEditor\LL.Solutions.PMS.ConfigurationEditor.csproj">
+      <Project>{eb24698a-678d-4432-afb6-4985f225fe0a}</Project>
+      <Name>LL.Solutions.PMS.ConfigurationEditor</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LL.Solutions.PMS.Controls\LL.Solutions.PMS.Controls.csproj">
       <Project>{c8950baf-06a5-4af3-964a-55b18b0e0b9f}</Project>
       <Name>LL.Solutions.PMS.Controls</Name>

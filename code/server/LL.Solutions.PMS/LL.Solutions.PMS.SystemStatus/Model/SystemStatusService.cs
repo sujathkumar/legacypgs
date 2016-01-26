@@ -21,14 +21,14 @@ namespace LL.Solutions.PMS.SystemStatus.Model
                 {
                     new SystemStatusDocument { Name = "Level 1", Message = "Controller 1 is Alive" },
                     new SystemStatusDocument { Name = "Level 2", Message = "Controller 2 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 3 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 4 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 5 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 6 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 7 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 8 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 9 is Alive" },
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 10 is Alive" }
+                    new SystemStatusDocument { Name = "Level 3", Message = "Controller 3 is Alive" },
+                    new SystemStatusDocument { Name = "Level 4", Message = "Controller 4 is Alive" },
+                    new SystemStatusDocument { Name = "Level 5", Message = "Controller 5 is Alive" },
+                    new SystemStatusDocument { Name = "Level 6", Message = "Controller 6 is Alive" },
+                    new SystemStatusDocument { Name = "Level 7", Message = "Controller 7 is Alive" },
+                    new SystemStatusDocument { Name = "Level 8", Message = "Controller 8 is Alive" },
+                    new SystemStatusDocument { Name = "Level 9", Message = "Controller 9 is Alive" },
+                    new SystemStatusDocument { Name = "Level 10", Message = "Controller 10 is Alive" }
                 };
         }
 
