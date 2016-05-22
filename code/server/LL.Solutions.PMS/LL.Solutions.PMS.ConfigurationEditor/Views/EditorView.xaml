@@ -11,15 +11,149 @@
     mc:Ignorable="d"
     d:DesignHeight="300" d:DesignWidth="650" >
 
-    <UserControl.Resources>
-        <CollectionViewSource x:Key="EditorEntries" Source="{Binding Meetings}">
-            <CollectionViewSource.GroupDescriptions>
-                <PropertyGroupDescription PropertyName="StartTime.Date" />
-            </CollectionViewSource.GroupDescriptions>
-        </CollectionViewSource>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Text="System Configuration" FontWeight="ExtraBold" Foreground="#FFFFFFFF" FontSize="16" Padding="10"/>
+        <Button Grid.Row="0" Grid.Column="1" FontSize="12" Content="Edit" Cursor="Hand" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,40,0" Click="EditMainConfiguration">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <TextBlock>
+                <ContentPresenter />
+                    </TextBlock>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Foreground" Value="White" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Foreground" Value="Red" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button Grid.Row="0" Grid.Column="1" FontSize="12" Content="Save" Cursor="Hand" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Click="SaveMainConfiguration">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <TextBlock>
+                <ContentPresenter />
+                    </TextBlock>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Foreground" Value="White" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Foreground" Value="Red" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Border Grid.Row="1" Grid.ColumnSpan="2" Margin="5, 10, 5, 0" >
+            <ScrollViewer VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                              VerticalScrollBarVisibility="Auto">
+                <Grid x:Name="gridMain" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5" IsEnabled="False">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />                        
+                    </Grid.RowDefinitions>
 
-        <infrastructure:ObservableCommand x:Key="OpenMeetingEmailCommand" Value="{Binding OpenMeetingEmailCommand}"/>
-    </UserControl.Resources>
+                    <Rectangle Grid.Row="0" Grid.Column="0" Fill="LightGray"/>
+                    <Label Grid.Row="0" Grid.Column="0" Foreground="White">Server IP</Label>
+                    <TextBox x:Name="txtServerIP" Grid.Row="0" Grid.Column="1" BorderBrush="LightGray" BorderThickness="1"></TextBox>
 
-    <Grid x:Name="LayoutRoot" Background="White"/>
+                    <Rectangle Grid.Row="1" Grid.Column="0" />
+                    <Label Grid.Row="1" Grid.Column="0" BorderBrush="LightGray" BorderThickness="1,0,0,0">Port No</Label>
+                    <TextBox x:Name="txtPortNumber" Grid.Row="1" Grid.Column="1" BorderBrush="LightGray" BorderThickness="1,0,1,0"></TextBox>
+
+                    <Rectangle Grid.Row="2" Grid.Column="0" Fill="LightGray"/>
+                    <Label Grid.Row="2" Grid.Column="0" Foreground="White">Main Controller IP</Label>
+                    <TextBox x:Name="txtControllerIP" Grid.Row="2" Grid.Column="1" BorderBrush="LightGray" BorderThickness="1"></TextBox>
+
+                    <Rectangle Grid.Row="3" Grid.Column="0" />
+                    <Label Grid.Row="3" Grid.Column="0" BorderBrush="LightGray" BorderThickness="1,0,0,0">Total Spaces</Label>
+                    <TextBox x:Name="txtTotalSpace" Grid.Row="3" Grid.Column="1" BorderBrush="LightGray" BorderThickness="1,0,1,0"></TextBox>
+
+                    <Rectangle Grid.Row="4" Grid.Column="0" Fill="LightGray"/>
+                    <Label Grid.Row="4" Grid.Column="0" Foreground="White">Total Levels</Label>
+                    <TextBox x:Name="txtTotalLevels" Grid.Row="4" Grid.Column="1" BorderBrush="LightGray" BorderThickness="1"></TextBox>
+                </Grid>
+            </ScrollViewer>
+        </Border>
+        <TextBlock Grid.Row="2" Text="Level Configuration" FontWeight="ExtraBold" Foreground="#FFFFFFFF" FontSize="16" Padding="10"/>
+        <Button x:Name="btnLevel" IsEnabled="False" Grid.Row="2" Grid.Column="1" FontSize="12" Content="Add Level" Cursor="Hand" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Click="AddLevel">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <TextBlock>
+                <ContentPresenter />
+                    </TextBlock>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Foreground" Value="White" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Foreground" Value="Red" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Border Grid.Row="3" Grid.ColumnSpan="2" Margin="5, 10, 5, 0" >
+            <ScrollViewer VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalScrollBarVisibility="Auto">
+                <StackPanel x:Name="spLevelContoller" Orientation="Vertical" IsEnabled="False"></StackPanel>
+            </ScrollViewer>
+        </Border>
+        <Border Grid.Row="4" Grid.ColumnSpan="2" BorderBrush="White" BorderThickness="1" Background="#828282" MinWidth="200" Margin="5,0,5,5">
+            <DockPanel>
+                <StatusBar x:Name="sbMain" DockPanel.Dock="Bottom" Foreground="#FFFFAC42" Background="Transparent">
+                    <StatusBar.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="100" />
+                                </Grid.ColumnDefinitions>
+                            </Grid>
+                        </ItemsPanelTemplate>
+                    </StatusBar.ItemsPanel>
+                    <StatusBarItem>
+                        <TextBlock Name="lblMethod" />
+                    </StatusBarItem>
+                    <Separator Grid.Column="1" />
+                    <StatusBarItem Grid.Column="2">
+                        <TextBlock Name="lblAction" />
+                    </StatusBarItem>
+                    <Separator Grid.Column="3" />
+                    <StatusBarItem Grid.Column="4">
+                        <ProgressBar Name="pbMain" Value="0" Width="90" Height="16" />
+                    </StatusBarItem>
+                </StatusBar>
+            </DockPanel>
+        </Border>
+    </Grid>
 </UserControl>

@@ -12,13 +12,13 @@
             <ColumnDefinition />
             <ColumnDefinition Width="Auto"/>
         </Grid.ColumnDefinitions>
-        <RadioButton x:Name="NavigateToSystemStatusRadioButton" GroupName="MainNavigation" Click="NavigateToSystemStatusRadioButton_Click" Style="{StaticResource MainViewRadioButtonStyle}" AutomationProperties.AutomationId="SystemStatusRadioButton">System Status</RadioButton>
+        <RadioButton x:Name="NavigateToSystemStatusRadioButton" Height="100" GroupName="MainNavigation" Click="NavigateToSystemStatusRadioButton_Click" Style="{StaticResource MainViewRadioButtonStyle}" AutomationProperties.AutomationId="SystemStatusRadioButton">Controller Status</RadioButton>
         <controls:InfoTipToggleButton Grid.Column="1">
             <controls:InfoTipToggleButton.Popup>
                 <Popup>
                     <Border BorderBrush="Black" BorderThickness="2">
                         <StackPanel MinWidth="100" MinHeight="24" MaxWidth="400" Background="White">
-                            <TextBlock Margin="2" TextWrapping="Wrap">Check the System Status for Levels, Controllers.</TextBlock>
+                            <TextBlock Margin="2" TextWrapping="Wrap">Check the status for controllers.</TextBlock>
                         </StackPanel>
                     </Border>
                 </Popup>

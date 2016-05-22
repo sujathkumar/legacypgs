@@ -34,6 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.5\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.Expression.Drawing, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Expression.Interactions, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -88,11 +92,17 @@
     <Compile Include="SystemStatusModule.cs" />
     <Compile Include="ViewModels\ComposeSystemStatusViewModel.cs" />
     <Compile Include="ViewModels\InboxViewModel.cs" />
+    <Compile Include="Views\LevelView.xaml.cs">
+      <DependentUpon>LevelView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ZoneView.xaml.cs">
+      <DependentUpon>ZoneView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\SystemStatusNavigationItemView.xaml.cs">
       <DependentUpon>SystemStatusNavigationItemView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\SystemStatusView.xaml.cs">
-      <DependentUpon>SystemStatusView.xaml</DependentUpon>
+    <Compile Include="Views\ControllerLogView.xaml.cs">
+      <DependentUpon>ControllerLogView.xaml</DependentUpon>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -102,20 +112,28 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="Views\InboxView.xaml">
+    <Page Include="Views\SystemView.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
     <Compile Include="ViewModels\ViewModel.cs" />
-    <Compile Include="Views\InboxView.xaml.cs">
-      <DependentUpon>InboxView.xaml</DependentUpon>
+    <Compile Include="Views\SystemView.xaml.cs">
+      <DependentUpon>SystemView.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Views\LevelView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ZoneView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\SystemStatusNavigationItemView.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Views\SystemStatusView.xaml">
+    <Page Include="Views\ControllerLogView.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -134,6 +152,10 @@
     <ProjectReference Include="..\LL.Solutions.PMS.Infrastructure\LL.Solutions.PMS.Infrastructure.csproj">
       <Project>{55aa526e-1a89-4a8e-b648-8de5de2fd1e5}</Project>
       <Name>LL.Solutions.PMS.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LL.Solutions.PMS.Service\LL.Solutions.PMS.Service.csproj">
+      <Project>{616bb713-27e3-46dd-a3cb-79cbe544534b}</Project>
+      <Name>LL.Solutions.PMS.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

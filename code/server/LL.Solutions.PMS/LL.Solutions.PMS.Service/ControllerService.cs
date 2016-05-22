@@ -6,8 +6,21 @@ using System.Threading.Tasks;
 
 namespace LL.Solutions.PMS.Service
 {
-    public class ControllerService
+    public class ControllerService : IService
     {
-        public List<string> Controllers { get; set; }
+        #region Properties
+        public IList<string> Controllers { get; set; }
+
+        /// <summary>
+        /// DisplayName
+        /// </summary>
+        public string DisplayName
+        {
+            get
+            {
+                return "Controller Service";
+            }
+        } 
+        #endregion
     }
 }

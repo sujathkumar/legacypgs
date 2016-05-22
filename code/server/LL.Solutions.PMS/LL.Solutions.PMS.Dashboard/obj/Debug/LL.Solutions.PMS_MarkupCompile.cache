@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Dashboard\obj\Debug\
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Dashboard\obj\Debug\
 LL.Solutions.PMS
 none
 false
 DEBUG;TRACE
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Dashboard\App.xaml
-41213081712
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Dashboard\Dashboard\App.xaml
+6-1901602742
 
-71978547106
-76-1377195575
-MainWindow.xaml;Shell.xaml;Styles.xaml;Theme\Theme.xaml;
+8-1551655845
+791029921088
+Login\Login.xaml;Dashboard\MainWindow.xaml;Dashboard\Shell.xaml;Dashboard\Styles.xaml;Login\ResourceDictionary.xaml;Theme\Theme.xaml;
 
 False
 

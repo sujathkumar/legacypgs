@@ -21,3 +21,23 @@ C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Soluti
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\Renci.SshNet.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\log4net.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\log4net.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\Renci.SshNet.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\LL.Solutions.Adapter.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Debug\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Debug\LL.Solutions.PMS.Service.pdb

@@ -5,17 +5,15 @@
     xmlns:prism="http://www.codeplex.com/prism">
 
     <!--Basic Brushes-->
-    <Color x:Key="PrimaryColor">#FF63AADA</Color>
-    <Color x:Key="SecondaryColor">#FFA0FCFF</Color>
+    <Color x:Key="PrimaryColor">#828282</Color>
+    <Color x:Key="SecondaryColor">#616161</Color>
     <SolidColorBrush x:Key="PrimaryBrush" Color="{StaticResource PrimaryColor}" />
     <SolidColorBrush x:Key="SecondaryBrush" Color="{StaticResource SecondaryColor}" />
     <SolidColorBrush x:Key="TextBrush" Color="#FF152937" />
     <SolidColorBrush x:Key="DisabledColor" Color="#8CFFFFFF" />
     <SolidColorBrush x:Key="BackgroundBrush" Color="#FFFFFFFF" />
     <LinearGradientBrush x:Key="MainBackground"  EndPoint="0.5,1" StartPoint="0.5,0">
-        <GradientStop Color="#FFCEDEFF" Offset="0"/>
-        <GradientStop Color="#FF5A7CA0" Offset="0.992"/>
-        <GradientStop Color="#FF5882A7" Offset="0.085"/>
+        <GradientStop Color="#616261" Offset="1"/>
     </LinearGradientBrush>
     <SolidColorBrush x:Key="WaitingAnimationColor" Color="DarkBlue"/>
 

@@ -6,6 +6,6 @@ namespace LL.Solutions.PMS.ConfigurationEditor.Model
 {
     public interface IEditorService
     {
-        Task<IEnumerable<Editor>> GetMeetingsAsync();
+        Task<Editor> GetConfigurationInfoAsync();
     }
 }

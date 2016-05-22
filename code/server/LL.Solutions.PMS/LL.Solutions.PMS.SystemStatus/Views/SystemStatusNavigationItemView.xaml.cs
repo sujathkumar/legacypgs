@@ -13,7 +13,7 @@ namespace LL.Solutions.PMS.SystemStatus.Views
     [ViewSortHint("01")]
     public partial class SystemStatusNavigationItemView : UserControl, IPartImportsSatisfiedNotification
     {
-        private static Uri SystemStatussViewUri = new Uri("/InboxView", UriKind.Relative);
+        private static Uri SystemStatussViewUri = new Uri("/SystemView", UriKind.Relative);
 
         [Import]
         public IRegionManager regionManager;

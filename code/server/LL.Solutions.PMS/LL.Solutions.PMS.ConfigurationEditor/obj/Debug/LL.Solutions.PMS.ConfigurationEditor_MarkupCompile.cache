@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ConfigurationEditor\obj\Debug\
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ConfigurationEditor\obj\Debug\
 LL.Solutions.PMS.ConfigurationEditor
 none
 false
 DEBUG;TRACE
 
-21380819368
+4-43092256
 
-101472584421
-7490277056
-Views\EditorNavigationItemView.xaml;Views\EditorView.xaml;
+13905136615
+75-881409536
+Views\NavigationView.xaml;Views\EditorView.xaml;Views\LevelController.xaml;Views\ZoneController.xaml;
 
 False
 

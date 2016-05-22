@@ -16,12 +16,12 @@ using LL.Solutions.PMS.Infrastructure;
 namespace LL.Solutions.PMS.SystemStatus.ViewModels
 {
     [Export]
-    public class InboxViewModel : BindableBase
+    public class SystemViewModel : BindableBase
     {
         private const string ComposeSystemStatusViewKey = "ComposeSystemStatusView";
         private const string ReplyToKey = "ReplyTo";
-        private const string SystemStatusViewKey = "SystemStatusView";
-        private const string SystemStatusIdKey = "SystemStatusId";
+        private const string ControllerLogViewKey = "ControllerLogView";
+        private const string ControllerLogIdKey = "ControllerLogId";
 
         private readonly ISystemStatusService SystemStatusService;
         private readonly IRegionManager regionManager;
@@ -33,7 +33,7 @@ namespace LL.Solutions.PMS.SystemStatus.ViewModels
         private static Uri ComposeSystemStatusViewUri = new Uri(ComposeSystemStatusViewKey, UriKind.Relative);
 
         [ImportingConstructor]
-        public InboxViewModel(ISystemStatusService SystemStatusService, IRegionManager regionManager)
+        public SystemViewModel(ISystemStatusService SystemStatusService, IRegionManager regionManager)
         {
             this.composeMessageCommand = new DelegateCommand<object>(this.ComposeMessage);
             this.replyMessageCommand = new DelegateCommand<object>(this.ReplyMessage, this.CanReplyMessage);
@@ -54,6 +54,11 @@ namespace LL.Solutions.PMS.SystemStatus.ViewModels
         {
             var messages = await this.SystemStatusService.GetSystemStatusDocumentsAsync();
             messages.ToList().ForEach(m => this.messagesCollection.Add(m));
+        }
+
+        public async Task GetLevels()
+        {
+            var levels = await this.SystemStatusService.GetLevelConfigurationAsync();
         }
 
         public ICollectionView Messages { get; private set; }
@@ -121,13 +126,13 @@ namespace LL.Solutions.PMS.SystemStatus.ViewModels
             // viewmodel can orient their data to something appropriate.  In this case,
             // we've chosen to pass the SystemStatus id in a name/value pair using and handmade Uri.
             //
-            // The SystemStatusViewModel retrieves this context by implementing the INavigationAware
+            // The ControllerLogViewModel retrieves this context by implementing the INavigationAware
             // interface.
             //
             NavigationParameters parameters = new NavigationParameters();
-            parameters.Add(SystemStatusIdKey, document.Id.ToString("N"));
+            parameters.Add(ControllerLogIdKey, document.Id.ToString("N"));
 
-            this.regionManager.RequestNavigate(RegionNames.MainContentRegion, new Uri(SystemStatusViewKey + parameters, UriKind.Relative));
+            this.regionManager.RequestNavigate(RegionNames.MainContentRegion, new Uri(ControllerLogViewKey + parameters, UriKind.Relative));
         }
     }
 }

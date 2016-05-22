@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="LL.Solutions.PMS.SystemStatus.Views.LevelView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LL.Solutions.PMS.SystemStatus.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="140"
+             Padding="10">
+    <Border BorderBrush="#616161" BorderThickness="1" Height="100" Width="140">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="txtLevelName" Grid.Row="0" HorizontalAlignment="Center"></TextBlock>            
+            <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center" >
+                <TextBlock x:Name="txtLevelTotal" HorizontalAlignment="Center" Padding="6" Background="#616161" Foreground="Yellow" FontSize="12"></TextBlock>
+                <TextBlock x:Name="txtLevelAvailable" HorizontalAlignment="Center" Padding="6" Background="#616161" Foreground="LightGreen" FontSize="12"></TextBlock>
+                <TextBlock x:Name="txtLevelOccupied" HorizontalAlignment="Center" Padding="6" Background="#616161" Foreground="Red" FontSize="12"></TextBlock>
+            </StackPanel>
+            <TextBlock x:Name="txtLevelBackgroundColor" Grid.Row="2" Background="#828282" Width="140"></TextBlock>
+        </Grid>
+    </Border>
+</UserControl>

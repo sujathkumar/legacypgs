@@ -38,3 +38,32 @@ C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Soluti
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.PMS.ProgramConsole.csprojResolveAssemblyReference.cache
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.Console.exe
 C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.Console.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.exe.config
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.exe
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.Service.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Adapter.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\Renci.SshNet.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Adapter.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.PMS.ProgramConsole.csprojResolveAssemblyReference.cache
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.Console.exe
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.Console.pdb
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\log4net.dll
+C:\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.exe.config
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.exe
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Console.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.Service.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\log4net.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Adapter.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\Renci.SshNet.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.Service.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.Adapter.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.PMS.ProgramConsole.csprojResolveAssemblyReference.cache
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.Console.exe
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Debug\LL.Solutions.Console.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.DataAccess.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\MySql.Data.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Debug\LL.Solutions.PMS.DataAccess.pdb

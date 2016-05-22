@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\nairs6\Documents\Visual Studio 2015\Projects\LL.Solutions.PMS\LL.Solutions.PMS.SystemStatus\obj\Debug\
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.SystemStatus\obj\Debug\
 LL.Solutions.PMS.SystemStatus
 none
 false
 DEBUG;TRACE
 
-3-1650816475
+5-607156805
 
-17-389464028
-75-1354607470
-Views\InboxView.xaml;Views\SystemStatusNavigationItemView.xaml;Views\SystemStatusView.xaml;
+19-1624795106
+77977657929
+Views\SystemView.xaml;Views\LevelView.xaml;Views\ZoneView.xaml;Views\SystemStatusNavigationItemView.xaml;Views\ControllerLogView.xaml;
 
-False
+True
 

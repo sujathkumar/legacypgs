@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{F1B0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LL.Solutions.PMS.ConfigurationEditor", "LL.Solutions.PMS.ConfigurationEditor\LL.Solutions.PMS.ConfigurationEditor.csproj", "{EB24698A-678D-4432-AFB6-4985F225FE0A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{59A8DCE6-B199-4279-86E8-57C86DD56595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LL.Solutions.PMS.DataAccess", "LL.Solutions.PMS.DataAccess\LL.Solutions.PMS.DataAccess.csproj", "{AFDA6AF3-0663-4633-8593-5DB2A2879D29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,10 @@ Global
 		{EB24698A-678D-4432-AFB6-4985F225FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB24698A-678D-4432-AFB6-4985F225FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB24698A-678D-4432-AFB6-4985F225FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDA6AF3-0663-4633-8593-5DB2A2879D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDA6AF3-0663-4633-8593-5DB2A2879D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDA6AF3-0663-4633-8593-5DB2A2879D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDA6AF3-0663-4633-8593-5DB2A2879D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,5 +84,6 @@ Global
 		{4F877CE6-D317-4858-903E-E3B0893FCE67} = {F936ADB7-E24D-4240-A3BA-0FBCA56741F0}
 		{998E10B8-C8C0-4D16-BDD5-124CB1EA6CD3} = {F936ADB7-E24D-4240-A3BA-0FBCA56741F0}
 		{EB24698A-678D-4432-AFB6-4985F225FE0A} = {F936ADB7-E24D-4240-A3BA-0FBCA56741F0}
+		{AFDA6AF3-0663-4633-8593-5DB2A2879D29} = {59A8DCE6-B199-4279-86E8-57C86DD56595}
 	EndGlobalSection
 EndGlobal

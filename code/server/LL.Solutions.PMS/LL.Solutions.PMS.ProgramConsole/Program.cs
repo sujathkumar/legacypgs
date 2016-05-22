@@ -7,6 +7,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
+using LL.Solutions.PMS.DataAccess.DataModels;
 
 namespace LL.Solutions.ProgramConsole
 {
@@ -16,9 +17,16 @@ namespace LL.Solutions.ProgramConsole
         {
             //ListenUDP();
 
-            //Listening SCP Server
+            //ListenSCP();
+        }
+
+        /// <summary>
+        /// ListenSCP
+        /// </summary>
+        private static void ListenSCP()
+        {
             ListenerService _listenerService = new ListenerService();
-            _listenerService.StartService("SCP", userName: "root", password: "", address: "192.168.100.3", path: "pws", port: 22);
+            _listenerService.StartService("SCP", userName: "root", password: "", address: "192.168.100.3", path: "pms", port: 22);
             _listenerService.ListenService();
         }
 

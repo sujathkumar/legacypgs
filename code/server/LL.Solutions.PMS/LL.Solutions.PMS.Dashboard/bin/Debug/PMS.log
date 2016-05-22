@@ -1,0 +1,1172 @@
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:04:04,144 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:04:04,175 [12] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:04:04,175 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:04:14,206 [12] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:04:14,206 [12] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:04:14,206 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:05:06,836 [11] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:05:06,846 [11] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:05:06,846 [11] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:05:06,847 [11] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:05:06,847 [11] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:05:06,847 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:05:06,847 [11] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:05:06,848 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:05:06,864 [11] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:05:06,867 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:05:35,181 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:05:35,196 [12] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:05:35,196 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:05:45,243 [12] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:05:45,243 [12] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:05:45,243 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:06:04,278 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:06:04,294 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:06:04,310 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:06:04,325 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:06:14,313 [13] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:06:14,329 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:06:14,329 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:06:57,349 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:06:57,364 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:06:57,380 [12] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:06:57,396 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:07:07,420 [12] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:07:07,420 [12] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:07:07,420 [12] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:08:16,735 [17] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:08:16,751 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:08:16,766 [17] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:08:16,766 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:08:32,036 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:08:32,067 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:08:32,083 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:08:32,099 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:08:42,098 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:08:42,098 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:08:42,098 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:09:22,376 [17] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:09:22,392 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:09:22,407 [17] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:09:22,407 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:09:32,429 [17] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:09:32,429 [17] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:09:32,429 [17] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:09:55,441 [16] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:09:55,458 [16] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:09:55,459 [16] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:09:55,460 [16] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:09:55,460 [16] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:09:55,461 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:09:55,461 [16] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:09:55,461 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:09:55,482 [16] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:09:55,485 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:10:11,470 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:10:11,478 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:10:11,479 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:10:11,479 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:10:11,479 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:10:11,479 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:10:11,479 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:10:11,480 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:10:11,485 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:10:11,485 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:11:42,348 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:11:42,359 [3] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:11:42,359 [3] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:11:42,360 [3] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:11:42,360 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:11:42,361 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:11:42,361 [3] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:11:42,361 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:11:42,379 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:11:42,382 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:11:59,735 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:11:59,751 [11] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:11:59,751 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:12:21,790 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:12:21,806 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:12:21,821 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:12:21,821 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:12:31,824 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:12:31,824 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:12:31,824 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:12:31,824 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:12:31,824 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:12:34,703 [19] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:12:57,538 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:12:57,547 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:12:57,548 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:12:57,548 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:12:57,549 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:12:57,549 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:12:57,549 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:12:57,549 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:12:57,564 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:12:57,567 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:13:11,640 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:13:11,655 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:13:11,671 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:13:11,687 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:13:21,686 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:13:21,686 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:13:21,686 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:13:21,686 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:13:21,686 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:13:21,702 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:24:30,959 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:24:30,977 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:24:30,978 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:24:30,978 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:24:30,979 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:24:30,979 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:24:30,979 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:24:30,980 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:24:31,004 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:24:31,019 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:24:41,021 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:24:41,025 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:24:41,025 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:25:10,033 [16] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:25:10,050 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:25:10,105 [16] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:25:10,120 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:25:20,132 [16] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:25:20,134 [16] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:25:20,134 [16] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:43:41,947 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:43:41,947 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:43:41,962 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:43:41,962 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:43:41,962 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:43:41,962 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:43:41,962 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:43:41,962 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:43:41,978 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:43:41,978 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:43:51,993 [13] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:43:51,997 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:43:51,997 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:43:51,998 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:43:51,998 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:43:52,001 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:44:02,015 [13] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:44:02,015 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:44:02,015 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:44:02,015 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:44:02,016 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:44:02,018 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:45:06,645 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:45:06,652 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:45:06,653 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:45:06,653 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:45:06,653 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:06,653 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:45:06,653 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:45:06,654 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:45:06,667 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:45:06,669 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:45:16,678 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:45:16,681 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:45:16,681 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:16,681 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:16,681 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:45:16,684 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:45:26,704 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:45:26,704 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:45:26,704 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:26,704 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:26,704 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:45:26,707 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:45:36,714 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:45:36,714 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:45:36,714 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:36,714 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:45:36,714 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:45:36,717 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:46:03,031 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:46:03,047 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:46:03,063 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:46:03,063 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:46:13,080 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:46:13,083 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:46:13,083 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:13,083 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:13,083 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:46:13,086 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:46:23,091 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:46:23,091 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:46:23,091 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:23,091 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:23,091 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:46:23,094 [6] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:46:33,100 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:46:33,100 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:46:33,100 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:33,100 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:33,100 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:46:33,103 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:46:43,108 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:46:43,108 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:46:43,108 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:43,108 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:46:43,108 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:46:43,111 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:47:30,832 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:47:30,848 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:47:30,863 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:47:30,879 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:47:40,877 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:47:40,880 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:47:40,880 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:47:40,881 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:47:40,881 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:47:40,889 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:49:39,457 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:49:39,473 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:49:39,473 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:49:49,485 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:49:49,488 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:49:49,488 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:49:49,489 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:49:49,489 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:49:49,491 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:54:12,183 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:54:12,183 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:54:12,199 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:54:12,199 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:54:12,199 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:54:12,199 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:54:12,199 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:54:12,199 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:54:12,214 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:54:12,230 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:54:52,246 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 12:54:52,254 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 12:54:52,255 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 12:54:52,255 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 12:54:52,255 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:54:52,256 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:54:52,256 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 12:54:52,256 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 12:54:52,275 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 12:54:52,277 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 12:55:02,286 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 12:55:02,289 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 12:55:02,289 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:55:02,290 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 12:55:02,290 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 12:55:02,293 [19] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:00:38,919 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:00:38,929 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:00:38,930 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:00:38,931 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:00:38,931 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:00:38,931 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:00:38,932 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:00:38,932 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:00:38,952 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:00:38,981 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:01:53,202 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:01:53,210 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:01:53,210 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:01:53,211 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:01:53,211 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:01:53,211 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:01:53,211 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:01:53,211 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:01:53,224 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:01:53,227 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:02:03,243 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:02:03,246 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:02:03,246 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:02:03,247 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:02:03,247 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:02:03,249 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:03:18,696 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:03:18,704 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:03:18,705 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:03:18,705 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:03:18,705 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:03:18,706 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:03:18,706 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:03:18,706 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:03:18,719 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:03:18,723 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:03:52,841 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:03:52,849 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:03:52,850 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:03:52,850 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:03:52,850 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:03:52,850 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:03:52,850 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:03:52,851 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:03:52,865 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:03:52,868 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:04:15,222 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:04:15,230 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:04:15,231 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:04:15,231 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:04:15,232 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:04:15,233 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:04:15,233 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:04:15,233 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:04:15,253 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:04:15,256 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:04:37,465 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:04:37,473 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:04:37,474 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:04:37,474 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:04:37,474 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:04:37,475 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:04:37,475 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:04:37,475 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:04:37,489 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:04:37,492 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:07:44,984 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:07:44,994 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:07:44,995 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:07:44,995 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:07:44,995 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:07:44,996 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:07:44,996 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:07:44,996 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:07:45,013 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:07:45,016 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:08:42,231 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:08:42,247 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:08:42,248 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:08:42,249 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:08:42,249 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:08:42,250 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:08:42,250 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:08:42,250 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:08:42,275 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:08:42,279 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:10:44,920 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:10:44,928 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:10:44,929 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:10:44,929 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:10:44,929 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:10:44,930 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:10:44,930 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:10:44,930 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:10:44,945 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:10:44,948 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:10:54,958 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:10:54,962 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:10:54,962 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:10:54,962 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:10:54,962 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:10:54,965 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:11:04,975 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:11:04,975 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:11:04,975 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:11:04,975 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:11:04,975 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:11:04,977 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:11:58,404 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:11:58,412 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:11:58,413 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:11:58,413 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:11:58,413 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:11:58,413 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:11:58,413 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:11:58,414 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:11:58,427 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:11:58,429 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:12:08,440 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:12:08,443 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:12:08,443 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:12:08,443 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:12:08,444 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:12:08,446 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:15:06,572 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:15:06,580 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:15:06,580 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:15:06,581 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:15:06,581 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:15:06,582 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:15:06,582 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:15:06,582 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:15:06,596 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:15:06,599 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:15:55,717 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:15:55,724 [3] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:15:55,725 [3] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:15:55,725 [3] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:15:55,725 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:15:55,725 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:15:55,725 [3] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:15:55,726 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:15:55,736 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:15:55,736 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:16:05,736 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:16:05,744 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:16:05,744 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:05,744 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:05,744 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:16:05,745 [9] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:16:15,746 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:16:15,746 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:16:15,746 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:15,746 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:15,746 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:16:15,746 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:16:25,746 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:16:25,746 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:16:25,746 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:25,746 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:25,746 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:16:25,747 [7] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:16:35,748 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:16:35,748 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:16:35,748 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:35,748 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:35,748 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:16:35,749 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:16:45,750 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:16:45,750 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:16:45,750 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:45,750 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:45,750 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:16:45,754 [8] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:16:55,753 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:16:55,753 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:16:55,753 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:55,753 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:16:55,753 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:16:55,753 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:17:05,753 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:17:05,753 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:17:05,753 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:05,753 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:05,753 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:17:05,753 [10] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:17:15,757 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:17:15,757 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:17:15,757 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:15,757 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:15,757 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:17:15,757 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:17:25,758 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:17:25,758 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:17:25,758 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:25,758 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:25,760 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:17:25,764 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:17:35,764 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:17:35,764 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:17:35,764 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:35,764 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:35,764 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:17:35,765 [19] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:17:45,766 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:17:45,766 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:17:45,766 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:45,766 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:45,766 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:17:45,767 [20] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:17:55,768 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:17:55,768 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:17:55,768 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:55,768 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:17:55,768 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:17:55,769 [21] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:18:05,769 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:18:05,769 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:18:05,769 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:05,769 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:05,769 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:18:05,774 [22] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:18:15,776 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:18:15,776 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:18:15,776 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:15,776 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:15,776 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:18:15,777 [25] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:18:25,777 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:18:25,777 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:18:25,777 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:25,777 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:25,777 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:18:25,778 [26] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:18:35,779 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:18:35,779 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:18:35,779 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:35,779 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:35,779 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:18:35,781 [29] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:18:45,781 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:18:45,781 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:18:45,781 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:45,781 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:45,781 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:18:45,781 [30] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:18:55,793 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:18:55,793 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:18:55,793 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:55,793 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:18:55,793 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:18:55,793 [31] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:19:05,795 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:19:05,795 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:19:05,795 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:05,795 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:05,795 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:19:05,795 [32] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:19:15,808 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:19:15,808 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:19:15,808 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:15,808 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:15,808 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:19:15,808 [33] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:19:25,817 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:19:25,817 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:19:25,817 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:25,817 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:25,817 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:19:25,817 [34] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:19:35,818 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:19:35,818 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:19:35,818 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:35,818 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:35,818 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:19:35,818 [36] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:19:45,818 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:19:45,818 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:19:45,818 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:45,818 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:45,818 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:19:45,819 [39] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:19:55,820 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:19:55,820 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:19:55,820 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:55,820 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:19:55,820 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:19:55,820 [40] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:20:05,832 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:20:05,832 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:20:05,832 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:05,832 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:05,832 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:20:05,832 [38] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:20:15,843 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:20:15,843 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:20:15,843 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:15,843 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:15,843 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:20:15,843 [41] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:20:25,843 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:20:25,843 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:20:25,843 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:25,843 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:25,843 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:20:25,843 [42] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:20:35,850 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:20:35,850 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:20:35,850 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:35,850 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:35,850 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:20:35,850 [44] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:20:45,851 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:20:45,851 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:20:45,851 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:45,851 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:45,851 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:20:45,851 [45] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:20:55,861 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:20:55,861 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:20:55,861 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:55,861 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:20:55,861 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:20:55,861 [43] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:21:05,874 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:21:05,874 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:21:05,874 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:05,874 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:05,874 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:21:05,874 [46] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:21:15,888 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:21:15,888 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:21:15,888 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:15,888 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:15,888 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:21:15,888 [48] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:21:25,901 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:21:25,901 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:21:25,901 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:25,901 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:25,901 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:21:25,901 [49] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:21:35,914 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:21:35,914 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:21:35,914 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:35,914 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:35,914 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:21:35,914 [50] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:21:45,926 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:21:45,926 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:21:45,926 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:45,926 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:45,926 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:21:45,926 [51] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:21:55,934 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:21:55,934 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:21:55,934 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:55,934 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:21:55,934 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:21:55,934 [52] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:22:05,946 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:22:05,946 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:22:05,946 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:05,946 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:05,946 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:22:05,946 [53] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:22:15,947 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:22:15,947 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:22:15,947 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:15,947 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:15,947 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:22:15,947 [54] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:22:25,947 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:22:25,947 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:22:25,947 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:25,947 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:25,947 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:22:25,947 [55] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:22:35,957 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:22:35,957 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:22:35,957 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:35,957 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:35,957 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:22:35,957 [56] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:22:52,624 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:22:52,637 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:22:52,638 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:22:52,638 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:22:52,638 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:22:52,640 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:22:52,640 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:22:52,640 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:22:52,655 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:22:52,662 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:23:02,687 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:23:02,689 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:23:02,689 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:23:02,690 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:23:02,690 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:23:02,692 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:23:52,818 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:23:52,826 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:23:52,826 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:23:52,827 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:23:52,827 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:23:52,828 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:23:52,828 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:23:52,828 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:23:52,843 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:23:52,846 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:24:02,856 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:24:02,859 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:24:02,859 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:02,859 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:02,859 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:24:02,862 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:24:12,872 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:24:12,872 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:24:12,872 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:12,872 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:12,872 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:24:12,875 [11] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:24:22,898 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:24:22,899 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:24:22,899 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:22,899 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:22,899 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:24:22,902 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:24:47,901 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:24:47,917 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:24:47,919 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:24:47,920 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:24:47,920 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:24:47,921 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:24:47,921 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:24:47,921 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:24:47,941 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:24:47,945 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:25:58,279 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:25:58,287 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:25:58,287 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:25:58,287 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:25:58,288 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:25:58,288 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:25:58,288 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:25:58,288 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:25:58,305 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:25:58,312 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:26:55,996 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:26:56,012 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:26:56,027 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:26:56,027 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:27:20,570 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:27:20,586 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:27:20,601 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:27:20,601 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:27:40,366 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:27:40,382 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:27:40,382 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:28:39,811 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:28:39,826 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:28:39,842 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:28:39,842 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:46:26,301 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:46:26,309 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:46:26,309 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:46:26,310 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:46:26,310 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:46:26,311 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:46:26,311 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:46:26,311 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:46:26,332 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:46:26,347 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:47:48,684 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:47:48,692 [3] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:47:48,692 [3] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:47:48,693 [3] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:47:48,693 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:47:48,693 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:47:48,693 [3] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:47:48,693 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:47:48,699 [3] ERROR LL.Solutions.Adapter.Constants - Only one usage of each socket address (protocol/network address/port) is normally permitted
+2016-05-22 13:47:48,699 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:48:58,119 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:48:58,134 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:48:58,134 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:49:08,135 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:49:08,138 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:49:08,138 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:08,138 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:08,139 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:49:08,139 [6] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:49:18,139 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:49:18,139 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:49:18,139 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:18,139 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:18,139 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:49:18,140 [7] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:49:28,141 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:49:28,141 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:49:28,141 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:28,141 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:28,141 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:49:28,141 [8] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:49:38,155 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:49:38,155 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:49:38,155 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:38,155 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:49:38,155 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:49:38,155 [9] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:53:24,612 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:53:24,628 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:53:24,628 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:53:34,642 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:53:34,642 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:53:34,642 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:34,642 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:34,642 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:53:34,642 [7] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:53:44,657 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:53:44,657 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:53:44,657 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:44,657 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:44,657 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:53:44,657 [8] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:53:54,672 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:53:54,672 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:53:54,672 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:54,672 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:53:54,672 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:53:54,672 [9] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:54:10,327 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:54:10,335 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:54:10,336 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:54:10,337 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:54:10,337 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:54:10,338 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:54:10,338 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:54:10,338 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:54:10,354 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:54:10,357 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:54:20,368 [14] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 13:54:20,371 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 13:54:20,371 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:54:20,371 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:54:20,371 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:54:20,374 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:54:51,951 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:54:51,962 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:54:51,962 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:54:51,963 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:54:51,963 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:54:51,963 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:54:51,963 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:54:51,963 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:54:52,004 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:54:52,007 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 13:59:01,889 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 13:59:01,896 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 13:59:01,897 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 13:59:01,897 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 13:59:01,897 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 13:59:01,898 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 13:59:01,898 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 13:59:01,898 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 13:59:01,914 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 13:59:01,920 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:12:17,876 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:12:17,891 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:12:17,907 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:12:17,907 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:15:59,292 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:15:59,300 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:15:59,300 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:15:59,301 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:15:59,301 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:15:59,301 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:15:59,301 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:15:59,301 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:15:59,314 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:15:59,317 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:17:33,011 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:17:33,029 [5] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:17:33,030 [7] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:17:43,030 [5] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:17:43,033 [5] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:17:43,033 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:17:43,033 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:17:43,033 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:17:43,034 [8] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:17:53,043 [5] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:17:53,043 [5] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:17:53,043 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:17:53,043 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:17:53,043 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:17:53,043 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:18:03,058 [5] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:18:03,058 [5] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:18:03,058 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:03,058 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:03,058 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:18:03,058 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:18:13,066 [5] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:18:13,066 [5] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:18:13,066 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:13,066 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:13,066 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:18:13,066 [4] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:18:23,069 [5] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:18:23,069 [5] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:18:23,069 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:23,069 [5] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:23,069 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:18:23,069 [10] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:18:43,161 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:18:43,176 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:18:43,192 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:18:43,207 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:19:33,275 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:19:33,291 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:19:33,307 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:19:33,307 [5] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:19:43,307 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:19:43,315 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:19:43,315 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:19:43,316 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:19:43,316 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:19:43,316 [9] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:19:53,320 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:19:53,320 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:19:53,320 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:19:53,320 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:19:53,320 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:19:53,320 [12] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:20:03,335 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:20:03,335 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:20:03,335 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:03,335 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:03,335 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:20:03,335 [7] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:20:13,350 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:20:13,350 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:20:13,350 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:13,350 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:13,350 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:20:13,350 [8] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:20:23,365 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:20:23,365 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:20:23,365 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:23,365 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:23,365 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:20:23,365 [10] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:20:33,381 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:20:33,381 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:20:33,381 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:33,381 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:33,381 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:20:33,381 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:20:43,396 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:20:43,396 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:20:43,396 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:43,396 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:43,396 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:20:43,396 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:20:53,411 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:20:53,411 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:20:53,411 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:53,411 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:20:53,411 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:20:53,411 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:21:03,426 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:21:03,426 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:21:03,426 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:03,426 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:03,426 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:21:03,426 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:21:13,440 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:21:13,440 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:21:13,440 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:13,440 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:13,440 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:21:13,440 [18] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:21:23,443 [3] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:21:23,443 [3] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:21:23,443 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:23,443 [3] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:23,443 [3] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:21:23,443 [19] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:21:35,305 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:21:35,321 [13] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:21:35,336 [13] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:21:35,336 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:22:19,363 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:22:19,378 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:22:19,378 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:22:19,378 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:22:19,378 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:22:19,378 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:22:19,378 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:22:19,394 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:22:19,410 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:22:19,410 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:23:02,540 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:23:02,555 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:23:02,571 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:23:02,586 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:24:15,090 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:24:15,105 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:24:15,105 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:24:25,115 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:24:25,115 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:24:25,115 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:24:25,115 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:24:25,115 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:24:25,131 [17] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:24:35,142 [15] ERROR LL.Solutions.Adapter.Constants - System Exception: More than 10 secs.
+2016-05-22 14:24:35,142 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener ListenPort Method!
+2016-05-22 14:24:35,142 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:24:35,142 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:24:35,142 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:24:35,142 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:25:02,834 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:25:02,850 [14] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:25:02,865 [14] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:25:02,865 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!
+2016-05-22 14:27:11,562 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service StartService Method!
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.PMS.Service.Constants - Calling UDP Listener
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.Adapter.Constants - Setting default port to 22!
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.PMS.Service.Constants - Exiting Listener Service StartService Method!
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.PMS.Service.Constants - Entering Listener Service ListenService Method!
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener ListenPort Method!
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.Adapter.Constants - Calling UdpListener InitializeListener Method!
+2016-05-22 14:27:11,577 [15] INFO LL.Solutions.Adapter.Constants - Entering UdpListener InitializeListener Method!
+2016-05-22 14:27:11,593 [15] INFO LL.Solutions.Adapter.Constants - Exiting UdpListener InitializeListener Method!
+2016-05-22 14:27:11,593 [16] INFO LL.Solutions.Adapter.Constants - Entering UdpListener Receive Method!

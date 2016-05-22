@@ -5,6 +5,7 @@ using System.ComponentModel.Composition;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using LL.Solutions.PMS.Infrastructure;
 
 namespace LL.Solutions.PMS.SystemStatus.Model
@@ -13,23 +14,42 @@ namespace LL.Solutions.PMS.SystemStatus.Model
     public class SystemStatusService : ISystemStatusService
     {
         private readonly List<SystemStatusDocument> SystemStatusDocuments;
+        private List<XElement> LevelConfiguration;
+        XElement _configdata = null;
 
         public SystemStatusService()
         {
-            this.SystemStatusDocuments =
-                new List<SystemStatusDocument>
+            this.SystemStatusDocuments = LoadConfigurationInfo();
+        }
+
+        /// <summary>
+        /// LoadControllerInfo
+        /// </summary>
+        private List<SystemStatusDocument> LoadConfigurationInfo()
+        {
+            List<SystemStatusDocument> levelControllerList = new List<SystemStatusDocument>();
+
+            try
+            {
+                _configdata = XElement.Load("config.xml");
+
+                if (_configdata != null)
                 {
-                    new SystemStatusDocument { Name = "Level 1", Message = "Controller 1 is Alive" },
-                    new SystemStatusDocument { Name = "Level 2", Message = "Controller 2 is Alive" },
-                    new SystemStatusDocument { Name = "Level 3", Message = "Controller 3 is Alive" },
-                    new SystemStatusDocument { Name = "Level 4", Message = "Controller 4 is Alive" },
-                    new SystemStatusDocument { Name = "Level 5", Message = "Controller 5 is Alive" },
-                    new SystemStatusDocument { Name = "Level 6", Message = "Controller 6 is Alive" },
-                    new SystemStatusDocument { Name = "Level 7", Message = "Controller 7 is Alive" },
-                    new SystemStatusDocument { Name = "Level 8", Message = "Controller 8 is Alive" },
-                    new SystemStatusDocument { Name = "Level 9", Message = "Controller 9 is Alive" },
-                    new SystemStatusDocument { Name = "Level 10", Message = "Controller 10 is Alive" }
-                };
+                    IEnumerable<XElement> levelConfig = _configdata.Descendants("Level_configuration");
+                    this.LevelConfiguration = levelConfig.ToList();
+                    foreach (var levelElement in levelConfig.Elements())
+                    {
+                        string levelName = levelElement.Name.ToString().Replace("_configuration", "");
+                        levelControllerList.Add(new SystemStatusDocument { Name = levelName, Message = levelName + " is Alive" });
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return levelControllerList;
         }
 
         public SystemStatusDocument GetSystemStatusDocument(Guid id)
@@ -40,6 +60,11 @@ namespace LL.Solutions.PMS.SystemStatus.Model
         public Task<IEnumerable<SystemStatusDocument>> GetSystemStatusDocumentsAsync()
         {
             return Task.FromResult(new ReadOnlyCollection<SystemStatusDocument>(this.SystemStatusDocuments) as IEnumerable<SystemStatusDocument>);
+        }
+
+        public Task<IEnumerable<XElement>> GetLevelConfigurationAsync()
+        {
+            return Task.FromResult(new ReadOnlyCollection<XElement>(this.LevelConfiguration) as IEnumerable<XElement>);
         }
 
         public Task SendSystemStatusDocumentAsync(SystemStatusDocument SystemStatus)

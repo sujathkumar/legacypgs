@@ -1,0 +1,47 @@
+﻿<Window x:Class="LL.Solutions.PMS.Login" x:Name="LoginWindow"
+		  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		  WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight" Background="#FFFFFF"
+		  Title="PMS" MinWidth="300" MinHeight="300" WindowStyle="None" >
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ResourceDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Label Background="{StaticResource BlueTileBrush}" Margin="1" />
+        <StackPanel Orientation="Vertical" Margin="105,100,35,50">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Label Content ="User Name" Width="100"/>
+                <TextBox x:Name="txtUserName" Width="250"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Label Content ="Password" Width="100"/>
+                <PasswordBox x:Name="txtPassword" Width="250" MaxLength="10" PasswordChar="*"></PasswordBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+                <Button x:Name="btnLogin" Content="Login" Margin="40,2,2,2" Click="btnLogin_Click"></Button>
+                <Button x:Name="btnCancel" Content="Cancel" Margin="2" Click="btnCancel_Click"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+                <Label x:Name="lblError"  Foreground="{StaticResource TomatoTileBrush}" />
+            </StackPanel>
+        </StackPanel>
+        <Image Source="..\Images\ll.png" Margin="493,140,29,-115" Width="70" />
+        <Image Source="..\Images\lpheader.png" Margin="211,-107,181,132" Width="200" />
+        <Image Source="..\Images\lp.png" Margin="27,-75,495,108" Width="70" />
+    </Grid>
+</Window>

@@ -12,7 +12,7 @@ namespace LL.Solutions.PMS.SystemStatus.ViewModels
 {
     [Export]
     [PartCreationPolicy(CreationPolicy.NonShared)]
-    public class SystemStatusViewModel : BindableBase, INavigationAware
+    public class ControllerLogViewModel : BindableBase, INavigationAware
     {
         private readonly DelegateCommand goBackCommand;
         private readonly ISystemStatusService SystemStatusService;
@@ -21,7 +21,7 @@ namespace LL.Solutions.PMS.SystemStatus.ViewModels
         private const string SystemStatusIdKey = "SystemStatusId";
 
         [ImportingConstructor]
-        public SystemStatusViewModel(ISystemStatusService SystemStatusService)
+        public ControllerLogViewModel(ISystemStatusService SystemStatusService)
         {
             this.goBackCommand = new DelegateCommand(this.GoBack);
 
@@ -94,8 +94,8 @@ namespace LL.Solutions.PMS.SystemStatus.ViewModels
             // SystemStatusId (as a result of a prior navigation request), then this
             // method will return true.  
             //
-            // Otherwise, it will return false and if no other SystemStatusViewModel type returns true 
-            // then the navigation service knows that no SystemStatusView is already available that 
+            // Otherwise, it will return false and if no other ControllerLogViewModel type returns true 
+            // then the navigation service knows that no ControllerLogView is already available that 
             // shows that SystemStatus.  In this case, the navigation service will request a new one 
             // be constructed and added to the region.
             if (this.SystemStatus == null)

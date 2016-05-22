@@ -34,6 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.5\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Net" />
@@ -50,8 +54,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\LL.Solutions.PMS.DataAccess\LL.Solutions.PMS.DataAccess.csproj">
+      <Project>{afda6af3-0663-4633-8593-5db2a2879d29}</Project>
+      <Name>LL.Solutions.PMS.DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LL.Solutions.PMS.Service\LL.Solutions.PMS.Service.csproj">
       <Project>{616bb713-27e3-46dd-a3cb-79cbe544534b}</Project>
       <Name>LL.Solutions.PMS.Service</Name>
