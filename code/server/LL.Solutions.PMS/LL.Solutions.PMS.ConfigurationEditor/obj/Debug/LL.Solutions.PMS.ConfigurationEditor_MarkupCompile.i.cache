@@ -16,5 +16,5 @@ DEBUG;TRACE
 75-881409536
 Views\NavigationView.xaml;Views\EditorView.xaml;Views\LevelController.xaml;Views\ZoneController.xaml;
 
-True
+False
 

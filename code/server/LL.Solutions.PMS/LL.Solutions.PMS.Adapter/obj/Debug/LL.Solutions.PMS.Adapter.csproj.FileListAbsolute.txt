@@ -95,4 +95,3 @@ C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.Adapter.dll
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.Adapter.pdb
-C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Adapter\obj\Debug\LL.Solutions.PMS.Adapter.csprojResolveAssemblyReference.cache

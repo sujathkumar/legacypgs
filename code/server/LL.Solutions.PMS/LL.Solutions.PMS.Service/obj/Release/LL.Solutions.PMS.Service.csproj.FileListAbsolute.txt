@@ -1,0 +1,10 @@
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\LL.Solutions.PMS.Service.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\LL.Solutions.PMS.Service.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\LL.Solutions.Adapter.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\log4net.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\Renci.SshNet.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\LL.Solutions.Adapter.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\bin\Release\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Release\LL.Solutions.PMS.Service.csprojResolveAssemblyReference.cache
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Release\LL.Solutions.PMS.Service.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Service\obj\Release\LL.Solutions.PMS.Service.pdb

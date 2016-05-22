@@ -7,7 +7,9 @@
     xmlns:prism="http://www.codeplex.com/prism"
     xmlns:controls="clr-namespace:LL.Solutions.PMS.Controls;assembly=LL.Solutions.PMS.Controls"
     Title="LIQUIDPARK"
-    WindowState="Maximized">
+    WindowState="Maximized"
+    Loaded="Window_Loaded"
+    Icon="../Images/cgslogo.png">
 
     <Grid x:Name="LayoutRoot"
           Background="{StaticResource MainBackground}">
@@ -21,15 +23,42 @@
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
+            <DockPanel Grid.Row="0" Grid.ColumnSpan="3" Margin="4">
+                <Menu DockPanel.Dock="Top" BorderBrush="White" BorderThickness="1" Padding="5">
+                    <Menu.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#616161" Offset="0.528"/>
+                            <GradientStop Color="#808080" Offset="0.01"/>
+                            <GradientStop Color="#616161" Offset="1"/>
+                            <GradientStop Color="#808080" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Menu.Background>
+                    <Menu.BitmapEffect>
+                        <DropShadowBitmapEffect />
+                    </Menu.BitmapEffect>
+                    <MenuItem x:Name="menuComponents" Header="_View Componets" Foreground="White" VerticalAlignment="Center" Height="20" Click="menuComponents_Click">
+                        <MenuItem.Icon>
+                            <Image Source="../Images/icon_menu.png" />
+                        </MenuItem.Icon>
+                        <MenuItem Name="ControllerStatus"  Header="_Controller Status" Foreground="Black" Click="menuComponents_Click">
+                        </MenuItem>
+                        <MenuItem Name="SystemConfiguration" Header="_System Configuration" Foreground="Black" Click="menuComponents_Click">
+                        </MenuItem>
+                        <Separator />
+                        <MenuItem Name="Exit" Header="_Exit" Foreground="Black" Click="menuComponents_Click" />
+                    </MenuItem>
+                </Menu>
+            </DockPanel>
             <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
                 <Image Source="..\Images\cgslogo.png" Margin="0,12,0,13" Width="73" />
                 <TextBlock Text="LIQUIDPARK" FontWeight="ExtraBold" Foreground="#FFFFFFFF" FontSize="36" Padding="10"/>
             </StackPanel>
-            <Border Grid.Column="0" Grid.Row="2" Background="#828282" MinWidth="140" Margin="5,0,0,5">
+            <Label Grid.Row="0" Grid.Column="1" x:Name="lblUserName" Content="Welcome" Foreground="White" FontSize="16" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10"></Label>
+            <Border Grid.Column="0" Grid.Row="2" Background="DodgerBlue" MinWidth="140" Margin="5,0,0,5">
                 <ItemsControl x:Name="NavigationItemsControl" prism:RegionManager.RegionName="MainNavigationRegion" Grid.Column="0" Margin="5" Padding="5" />
             </Border>
             <ContentControl prism:RegionManager.RegionName="MainContentRegion" 
-                        Grid.Column="1" Grid.Row="2" Margin="5,0,5,5" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"/>            
+                        Grid.Column="1" Grid.Row="2" Margin="5,0,5,5" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"/>
         </Grid>
     </Grid>
 </Window>

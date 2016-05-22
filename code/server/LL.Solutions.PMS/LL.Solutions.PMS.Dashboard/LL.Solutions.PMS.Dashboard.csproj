@@ -83,6 +83,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Dashboard\Property.cs" />
     <Compile Include="Login\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>
@@ -187,6 +188,15 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\lpheader.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icon_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icon_cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\icon_menu.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

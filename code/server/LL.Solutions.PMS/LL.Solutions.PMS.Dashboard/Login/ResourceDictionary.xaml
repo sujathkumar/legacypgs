@@ -17,11 +17,55 @@
 	<!--                                          Common Button Style                                           -->
 	<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 	<Style TargetType="{x:Type Button}">
-		<Setter Property="Width" Value="70" />
+		<Setter Property="Width" Value="100" />
 		<Setter Property="Height" Value="40" />
 	</Style>
 
-	<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <Style TargetType="TextBox">
+        <Setter Property="Background" Value="White" />
+        <Setter Property="BorderBrush" Value="DeepSkyBlue" />
+        <Setter Property="BorderThickness" Value="2" />
+        <Setter Property="FontSize" Value="14" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type TextBoxBase}">
+                    <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}"  BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0">
+                        <ScrollViewer x:Name="PART_ContentHost" />
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter Property="Foreground" Value="DimGray" />
+                            <Setter Property="Background" Value="LightGray" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="PasswordBox">
+        <Setter Property="Background" Value="White" />
+        <Setter Property="BorderBrush" Value="DeepSkyBlue" />
+        <Setter Property="BorderThickness" Value="2" />
+        <Setter Property="FontSize" Value="14" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type PasswordBox}">
+                    <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}"  BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0">
+                        <ScrollViewer x:Name="PART_ContentHost" />
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter Property="Foreground" Value="DimGray" />
+                            <Setter Property="Background" Value="LightGray" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 	<!--                                          Common Tile Brushes                                           -->
 	<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 	<LinearGradientBrush x:Key="GreenTileBrush" StartPoint="0,0.5" EndPoint="1,0.5">
@@ -35,9 +79,11 @@
 	</LinearGradientBrush>
 
 	<LinearGradientBrush x:Key="BlueTileBrush" StartPoint="0,0.5" EndPoint="1,0.5">
-		<GradientStop Offset="0" Color="DodgerBlue" />
-		<GradientStop Offset="1" Color="DeepSkyBlue" />
-	</LinearGradientBrush>
+        <GradientStop Offset="0" Color="DodgerBlue" />
+		<GradientStop Offset="1" Color="White" />
+        <GradientStop Offset="1" Color="DeepSkyBlue" />
+        <GradientStop Offset="1" Color="DeepSkyBlue" />
+    </LinearGradientBrush>
 
 	<LinearGradientBrush x:Key="PlumTileBrush" StartPoint="0,0.5" EndPoint="1,0.5">
 		<GradientStop Offset="0" Color="DarkOrchid" />

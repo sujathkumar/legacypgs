@@ -130,4 +130,3 @@ C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Controls\obj\Debug
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Controls\obj\Debug\LL.Solutions.PMS.Controls.csproj.GenerateResource.Cache
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Controls\obj\Debug\LL.Solutions.PMS.Controls.dll
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Controls\obj\Debug\LL.Solutions.PMS.Controls.pdb
-C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Controls\obj\Debug\LL.Solutions.PMS.Controls.csprojResolveAssemblyReference.cache

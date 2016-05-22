@@ -1,0 +1,16 @@
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.Console.exe.config
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.Console.exe
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.Console.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.PMS.DataAccess.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.PMS.Service.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\log4net.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\MySql.Data.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.Adapter.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\Renci.SshNet.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.PMS.DataAccess.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.PMS.Service.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\bin\Release\LL.Solutions.Adapter.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Release\LL.Solutions.PMS.ProgramConsole.csprojResolveAssemblyReference.cache
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Release\LL.Solutions.Console.exe
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.ProgramConsole\obj\Release\LL.Solutions.Console.pdb

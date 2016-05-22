@@ -14,7 +14,7 @@ namespace LL.Solutions.PMS
     public partial class Shell : Window, IPartImportsSatisfiedNotification
     {
         private const string SystemStatusModuleName = "SystemStatusModule";
-        private static Uri SystemViewUri = new Uri("/SystemView", UriKind.Relative);
+                
         public Shell()
         {
             InitializeComponent();
@@ -46,9 +46,31 @@ namespace LL.Solutions.PMS
                     {
                         this.RegionManager.RequestNavigate(
                             RegionNames.MainContentRegion,
-                            SystemViewUri);
+                            Property.SystemViewUri);
                     }
                 };
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            lblUserName.Content = String.Format("{0} {1}!", lblUserName.Content, Property.UserName);
+        }
+
+        private void menuComponents_Click(object sender, RoutedEventArgs e)
+        {
+            MenuItem menu = (MenuItem)sender;
+            switch (menu.Name)
+            {
+                case "ControllerStatus":
+                    this.RegionManager.RequestNavigate(RegionNames.MainContentRegion, Property.SystemViewUri);
+                    break;
+                case "SystemConfiguration":
+                    this.RegionManager.RequestNavigate(RegionNames.MainContentRegion, Property.EditorViewUri);
+                    break;
+                case "Exit":
+                    this.Close();
+                    break;
+            }
         }
     }
 }

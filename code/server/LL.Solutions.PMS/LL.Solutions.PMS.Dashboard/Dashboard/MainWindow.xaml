@@ -3,7 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="PMS"
         WindowState="Maximized"
-        Background="{StaticResource MainBackground}">
+        Background="{StaticResource MainBackground}"
+        Icon="../Images/cgslogo.png">
     <Grid>
         
     </Grid>

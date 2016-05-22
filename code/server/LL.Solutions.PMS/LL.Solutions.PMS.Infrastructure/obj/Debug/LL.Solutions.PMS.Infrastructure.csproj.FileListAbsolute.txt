@@ -98,4 +98,3 @@ C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.csproj.GenerateResource.Cache
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.dll
 C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.pdb
-C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.Infrastructure\obj\Debug\LL.Solutions.PMS.Infrastructure.csprojResolveAssemblyReference.cache

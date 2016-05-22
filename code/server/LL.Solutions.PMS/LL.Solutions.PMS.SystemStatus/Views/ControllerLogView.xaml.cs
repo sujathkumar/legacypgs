@@ -26,8 +26,14 @@ namespace LL.Solutions.PMS.SystemStatus.Views
 
         private void UserControl_Loaded(object sender, System.Windows.RoutedEventArgs e)
         {
-            txtTitle.Text = "Log Message for " + ((ControllerLogViewModel)DataContext).Status.Name + ":";
-            txtLog.Text = ((ControllerLogViewModel)DataContext).Status.Message;
+            try
+            {
+                txtTitle.Text = "Log Message for " + ((ControllerLogViewModel)DataContext).Status.Name + ":";
+                txtLog.Text = ((ControllerLogViewModel)DataContext).Status.Message;
+            }
+            catch (System.Exception)
+            {
+            }            
         }
     }
 }

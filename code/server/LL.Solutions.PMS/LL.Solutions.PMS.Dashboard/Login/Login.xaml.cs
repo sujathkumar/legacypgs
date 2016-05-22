@@ -25,6 +25,7 @@ namespace LL.Solutions.PMS
         public Login()
         {
             InitializeComponent();
+            txtUserName.Focus();
         }
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)
@@ -36,6 +37,7 @@ namespace LL.Solutions.PMS
                 if (user != null)
                 {
                     this.Activated = true;
+                    Property.UserName = user.UserName;
                     this.Close();
                 }
                 else

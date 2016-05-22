@@ -16,5 +16,5 @@ DEBUG;TRACE
 77977657929
 Views\SystemView.xaml;Views\LevelView.xaml;Views\ZoneView.xaml;Views\SystemStatusNavigationItemView.xaml;Views\ControllerLogView.xaml;
 
-True
+False
 

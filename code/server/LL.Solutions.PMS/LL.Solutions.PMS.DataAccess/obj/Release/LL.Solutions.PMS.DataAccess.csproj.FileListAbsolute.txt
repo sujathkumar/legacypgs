@@ -1,0 +1,7 @@
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\bin\Release\LL.Solutions.PMS.DataAccess.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\bin\Release\LL.Solutions.PMS.DataAccess.pdb
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\bin\Release\log4net.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\bin\Release\MySql.Data.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\bin\Release\log4net.xml
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\obj\Release\LL.Solutions.PMS.DataAccess.dll
+C:\Personal\pms\code\server\LL.Solutions.PMS\LL.Solutions.PMS.DataAccess\obj\Release\LL.Solutions.PMS.DataAccess.pdb

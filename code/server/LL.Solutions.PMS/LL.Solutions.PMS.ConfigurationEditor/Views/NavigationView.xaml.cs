@@ -13,7 +13,7 @@ namespace LL.Solutions.PMS.ConfigurationEditor.Views
     [ViewSortHint("02")]
     public partial class NavigationView : UserControl, IPartImportsSatisfiedNotification
     {
-        private static Uri EditorViewUri = new Uri("EditorView", UriKind.Relative);
+        private static Uri EditorViewUri = new Uri("/EditorView", UriKind.Relative);
 
         [Import]
         public IRegionManager regionManager;

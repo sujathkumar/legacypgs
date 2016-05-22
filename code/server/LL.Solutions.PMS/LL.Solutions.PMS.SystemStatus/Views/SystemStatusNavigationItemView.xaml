@@ -5,14 +5,14 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d" 
     xmlns:controls="clr-namespace:LL.Solutions.PMS.Controls;assembly=LL.Solutions.PMS.Controls" 
-    d:DesignHeight="300" d:DesignWidth="400">
+    d:DesignHeight="100" d:DesignWidth="400">
 
     <Grid x:Name="LayoutRoot">
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition Width="Auto"/>
         </Grid.ColumnDefinitions>
-        <RadioButton x:Name="NavigateToSystemStatusRadioButton" Height="100" GroupName="MainNavigation" Click="NavigateToSystemStatusRadioButton_Click" Style="{StaticResource MainViewRadioButtonStyle}" AutomationProperties.AutomationId="SystemStatusRadioButton">Controller Status</RadioButton>
+        <RadioButton x:Name="NavigateToSystemStatusRadioButton" Height="50" GroupName="MainNavigation" Click="NavigateToSystemStatusRadioButton_Click" Style="{StaticResource MainViewRadioButtonStyle}" AutomationProperties.AutomationId="SystemStatusRadioButton">Controller Status</RadioButton>
         <controls:InfoTipToggleButton Grid.Column="1">
             <controls:InfoTipToggleButton.Popup>
                 <Popup>

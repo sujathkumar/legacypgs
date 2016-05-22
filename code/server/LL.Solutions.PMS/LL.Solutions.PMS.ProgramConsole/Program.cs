@@ -17,7 +17,7 @@ namespace LL.Solutions.ProgramConsole
         {
             //ListenUDP();
 
-            //ListenSCP();
+            ListenSCP();
         }
 
         /// <summary>

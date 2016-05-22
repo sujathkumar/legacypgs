@@ -4,7 +4,8 @@
 		  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
 		  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 		  WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight" Background="#FFFFFF"
-		  Title="PMS" MinWidth="300" MinHeight="300" WindowStyle="None" >
+		  Title="PMS" MinWidth="300" MinHeight="300" WindowStyle="None" 
+          Icon="../Images/cgslogo.png">
 
     <Window.Resources>
         <ResourceDictionary>
@@ -12,6 +13,7 @@
                 <ResourceDictionary Source="ResourceDictionary.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
+
     </Window.Resources>
 
     <Grid x:Name="LayoutRoot">
@@ -26,22 +28,35 @@
         <StackPanel Orientation="Vertical" Margin="105,100,35,50">
             <StackPanel Orientation="Horizontal" Margin="10">
                 <Label Content ="User Name" Width="100"/>
-                <TextBox x:Name="txtUserName" Width="250"></TextBox>
+                <TextBox x:Name="txtUserName" Width="250">
+                </TextBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="10">
                 <Label Content ="Password" Width="100"/>
                 <PasswordBox x:Name="txtPassword" Width="250" MaxLength="10" PasswordChar="*"></PasswordBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
-                <Button x:Name="btnLogin" Content="Login" Margin="40,2,2,2" Click="btnLogin_Click"></Button>
-                <Button x:Name="btnCancel" Content="Cancel" Margin="2" Click="btnCancel_Click"></Button>
+                <Button x:Name="btnLogin" IsDefault="True" Margin="30,2,2,2" Click="btnLogin_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="../Images/icon_login.png" Height="30"/>
+                        <TextBlock VerticalAlignment="Center">Login</TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnCancel" IsCancel="True" Margin="2" Click="btnCancel_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="../Images/icon_cancel.png" Height="30"/>
+                        <TextBlock VerticalAlignment="Center">Cancel</TextBlock>
+                    </StackPanel>
+                </Button>
             </StackPanel>
-            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
-                <Label x:Name="lblError"  Foreground="{StaticResource TomatoTileBrush}" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label x:Name="lblError"  Foreground="Red" />
             </StackPanel>
         </StackPanel>
         <Image Source="..\Images\ll.png" Margin="493,140,29,-115" Width="70" />
-        <Image Source="..\Images\lpheader.png" Margin="211,-107,181,132" Width="200" />
+
+        <Label Content="LIQUIDPARK" FontSize="40" Margin="217,-88,134,253" Foreground="#00004B"/>
         <Image Source="..\Images\lp.png" Margin="27,-75,495,108" Width="70" />
+        <Label Content="Copyright Liquid Lab Infosystems 2016" Margin="1,319,1,1"/>
     </Grid>
 </Window>
